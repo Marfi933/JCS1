@@ -1,0 +1,15 @@
+C:\Users\petrn\source\repos\JCS02\JCS02\bin\Debug\net6.0\JCS02.exe
+C:\Users\petrn\source\repos\JCS02\JCS02\bin\Debug\net6.0\JCS02.deps.json
+C:\Users\petrn\source\repos\JCS02\JCS02\bin\Debug\net6.0\JCS02.runtimeconfig.json
+C:\Users\petrn\source\repos\JCS02\JCS02\bin\Debug\net6.0\JCS02.dll
+C:\Users\petrn\source\repos\JCS02\JCS02\bin\Debug\net6.0\JCS02.pdb
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.csproj.AssemblyReference.cache
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.AssemblyInfoInputs.cache
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.AssemblyInfo.cs
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.csproj.CoreCompileInputs.cache
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.dll
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\refint\JCS02.dll
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.pdb
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\JCS02.genruntimeconfig.cache
+C:\Users\petrn\source\repos\JCS02\JCS02\obj\Debug\net6.0\ref\JCS02.dll
